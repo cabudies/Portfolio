@@ -30,16 +30,16 @@ function Home2() {
               <br />
               My field of Interest's are building production ready solutions like &nbsp;
               <i>
-                <b className="purple"> Backend, Frontend, Mobile </b> 
+                <b className="purple">Backend, Frontend, Mobile </b> 
               </i>
               <br />
               <br />
-              I love solving challenges using Tech Stack like 
+              I love solving challenges using Tech Stack like &nbsp;
               <i>
                 <b className="purple">
                   Django/FastAPI
                 </b>
-              </i>,
+              </i>, &nbsp;
               <i>
                 <b className="purple">
                   React

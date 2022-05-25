@@ -10,9 +10,7 @@ import {
   DiGit,
 } from "react-icons/di";
 import {
-  SiPytorch,
-  SiFirebase,
-  SiNextdotjs,
+  SiDart
 } from "react-icons/si";
 
 function Techstack() {

@@ -5,6 +5,7 @@ import Github from "./Github";
 import Techstack from "./Techstack";
 import Frameworks from "./Frameworks";
 import Database from "./Database";
+import Cloudstack from "./Cloud";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
@@ -58,6 +59,11 @@ function About() {
           <strong className="purple">Tools</strong> I use
         </h1>
         <Toolstack />
+
+        <h1 className="project-heading">
+          <strong className="purple">Third-Party</strong> I use
+        </h1>
+        <Cloudstack />
 
         <Github />
       </Container>

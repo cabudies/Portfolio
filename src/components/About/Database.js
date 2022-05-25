@@ -10,9 +10,8 @@ import {
   DiGit,
 } from "react-icons/di";
 import {
-  SiPytorch,
   SiFirebase,
-  SiNextdotjs,
+  SiPostgresql
 } from "react-icons/si";
 
 function Database() {

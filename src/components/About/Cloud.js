@@ -10,28 +10,20 @@ import {
   DiGit,
 } from "react-icons/di";
 import {
-  SiDjango,
-  SiFastapi,
-  SiFlutter
+  SiDocker,
+  SiAmazonaws,
+  SiElasticsearch,
+
 } from "react-icons/si";
 
-function Frameworks() {
+function Cloudstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiDjango />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiFastapi />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiReact />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiFlutter />
+        <SiAmazonaws />
       </Col>
     </Row>
   );
 }
 
-export default Frameworks;
+export default Cloudstack;
