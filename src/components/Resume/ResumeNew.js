@@ -10,8 +10,8 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  // "https://raw.githubusercontent.com/soumyajit4419/portfolio/master/src/Assets/Soumyajit_Behera-BIT_MESRA.pdf";
-  "https://raw.githubusercontent.com/cabudies/portfolio/master/src/Assets/Gurjas_Singh_resume_efaarms.pdf";
+  "https://raw.githubusercontent.com/cabudies/Portfolio/77b5d0d5c179e481bfcc251d96f12f8542c0f962/src/Assets/Gurjas_Singh_resume_efaarms.pdf";
+  // "https://raw.githubusercontent.com/cabudies/Portfolio/master/src/Assets/Gurjas_Singh_resume_efaarms.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
