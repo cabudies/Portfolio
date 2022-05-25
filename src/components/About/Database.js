@@ -15,20 +15,20 @@ import {
   SiNextdotjs,
 } from "react-icons/si";
 
-function Techstack() {
+function Database() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
+        <SiPostgresql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJavascript1 />
+        <DiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiDart />
+        <SiFirebase />
       </Col>
     </Row>
   );
 }
 
-export default Techstack;
+export default Database;

@@ -15,20 +15,23 @@ import {
   SiNextdotjs,
 } from "react-icons/si";
 
-function Techstack() {
+function Frameworks() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
+        <SiDjango />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJavascript1 />
+        <SiFastapi />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiDart />
+        <DiReact />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiFlutter />
       </Col>
     </Row>
   );
 }
 
-export default Techstack;
+export default Frameworks;

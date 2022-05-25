@@ -3,6 +3,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
 import Github from "./Github";
 import Techstack from "./Techstack";
+import Frameworks from "./Frameworks";
+import Database from "./Database";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
@@ -35,10 +37,22 @@ function About() {
           </Col>
         </Row>
         <h1 className="project-heading">
-          Professional <strong className="purple">Skillset </strong>
+          Language <strong className="purple">Skillset </strong>
         </h1>
 
         <Techstack />
+
+        <h1 className="project-heading">
+          Frameworks <strong className="purple">Skillset </strong>
+        </h1>
+
+        <Frameworks />
+
+        <h1 className="project-heading">
+          Database <strong className="purple">Skillset </strong>
+        </h1>
+
+        <Database />
 
         <h1 className="project-heading">
           <strong className="purple">Tools</strong> I use
