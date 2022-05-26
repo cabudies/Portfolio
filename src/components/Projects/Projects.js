@@ -4,6 +4,9 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 // import leaf from "../../Assets/Projects/leaf.png";
 import docty_app from "../../Assets/Projects/docty.png";
+import fininza from "../../Assets/Projects/fininza.png";
+import brillica_services from "../../Assets/Projects/brillica-services.png";
+import connected_classrooms from "../../Assets/Projects/connected-classrooms.png";
 import emotion from "../../Assets/Projects/emotion.jpeg";
 // import editor from "../../Assets/Projects/codeEditor.png";
 import efaarms_mobile_app from "../../Assets/Projects/efaarms-mobile-app.png";
@@ -62,6 +65,36 @@ function Projects() {
               title="Docty.AI"
               description="Online Doctor Consultation for you and your family members."
               link="https://play.google.com/store/apps/details?id=ai.doctyindia.patient"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={fininza}
+              isBlog={false}
+              title="Fininza.AI"
+              description="A fintech project of Agriwise for lending money to customers based on their past 3 years Balance Sheet, Income Tax Return."
+              link="http://fininza.in"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={brillica_services}
+              isBlog={false}
+              title="Brillica Services"
+              description="Served as Android, Data Science Consultant."
+              link="https://www.brillicaservices.com"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={connected_classrooms}
+              isBlog={false}
+              title="Connected Classrooms"
+              description="Served as Capacity Building Associate and Associate Android Developer."
+              link="https://play.google.com/store/apps/details?id=com.connectedClassrooms.edu&hl=en_IN"
             />
           </Col>
 
