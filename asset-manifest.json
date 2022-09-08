@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51a80fd7.css",
+    "main.js": "/static/js/main.2bfe6a82.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/efaarms.png": "/static/media/efaarms.e0abcaf546d4ab61bcc7.png",
+    "static/media/brillica-services.png": "/static/media/brillica-services.c2668134e57e1eda8164.png",
+    "static/media/efaarms-mobile-app.png": "/static/media/efaarms-mobile-app.7c951b72a63ccb049370.png",
+    "static/media/fininza.png": "/static/media/fininza.8ee803595fb26f21c35e.png",
+    "static/media/efaarms-logistics.png": "/static/media/efaarms-logistics.602682afbd2bc4453071.png",
+    "static/media/connected-classrooms.png": "/static/media/connected-classrooms.d15bbbbee5f053db86ab.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/suicide.png": "/static/media/suicide.b72f1f9ffeb4775a7803.png",
+    "static/media/docty.png": "/static/media/docty.d7af52ea8895a9cb6ea8.png",
+    "static/media/Gurjas_Singh_resume_efaarms.pdf": "/static/media/Gurjas_Singh_resume_efaarms.5a81aa766285890a80b0.pdf",
+    "static/media/emotion.jpeg": "/static/media/emotion.e92e314a236f65bb89af.jpeg",
+    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.51a80fd7.css.map": "/static/css/main.51a80fd7.css.map",
+    "main.2bfe6a82.js.map": "/static/js/main.2bfe6a82.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51a80fd7.css",
+    "static/js/main.2bfe6a82.js"
+  ]
+}
